@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://github.com/Arun1234git/Demo1.git"/>
+	</list>
+	<list key="CommitDialog.authorValues">
+		<item value="HP &lt;HP@DESKTOP-IUO30HJ&gt;"/>
+	</list>
+	<list key="CommitDialog.committerValues">
+		<item value="HP &lt;HP@DESKTOP-IUO30HJ&gt;"/>
+	</list>
+	<section name="GitCommitMessageComponent">
+		<list key="C:\Users\HP\eclipse-workspace\Practice\.git">
+			<item value="false"/>
+			<item value="HP &lt;HP@DESKTOP-IUO30HJ&gt;"/>
+			<item value="[amruta] practice created"/>
+			<item value="HP &lt;HP@DESKTOP-IUO30HJ&gt;"/>
+			<item value="fe70849347d7c322f2d93d86d62cab247692b7a7"/>
+			<item value="0"/>
+		</list>
+		<list key="C:\Users\HP\eclipse-workspace\3feb-revision\.git">
+			<item value="false"/>
+			<item value="HP &lt;HP@DESKTOP-IUO30HJ&gt;"/>
+			<item value="[AMruta] revision"/>
+			<item value="HP &lt;HP@DESKTOP-IUO30HJ&gt;"/>
+			<item value="541e54d9a23e68dc44b12c485c3f699a19263cea"/>
+			<item value="0"/>
+		</list>
+		<list key="C:\Users\HP\eclipse-workspace\maven_Proj\.git">
+			<item value="false"/>
+			<item value="HP &lt;HP@DESKTOP-IUO30HJ&gt;"/>
+			<item value="bahxfx"/>
+			<item value="HP &lt;HP@DESKTOP-IUO30HJ&gt;"/>
+			<item value="0a01d1b3a04b9385343e4bc58a26f68ab348734d"/>
+			<item value="0"/>
+		</list>
+	</section>
+	<section name="GitCommitSearchPage">
+		<item value="0" key="HISTORY_SIZE"/>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
+		<item value="500,500" key="STAGING_SASH_FORM_WEIGHT"/>
+		<item value="false" key="sortItemState"/>
+		<item value="500,500" key="HORIZONTAL_SASH_FORM_WEIGHT"/>
+	</section>
+</section>

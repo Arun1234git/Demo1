@@ -1,0 +1,17 @@
+package Abstract_concrit;
+
+public class Concrit 		//extends Abstract_demo1
+{
+
+	public void squareofnum()
+	{	
+		int n=5;
+		System.out.println(n*n);
+		
+	}
+	
+	abstract public void mul();	
+	{
+		
+	}
+}

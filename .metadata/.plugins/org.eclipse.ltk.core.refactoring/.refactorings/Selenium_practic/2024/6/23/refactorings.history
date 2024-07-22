@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;Customised_List&apos; to &apos;Customised_ListBox&apos;&#x0D;&#x0A;- Original project: &apos;Selenium_practic&apos;&#x0D;&#x0A;- Original element: &apos;Selenium_practic/src/Customised_List&apos;&#x0D;&#x0A;- Renamed element: &apos;Selenium_practic/src/Customised_ListBox&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update fully qualified names in &apos;*&apos; files&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;Customised_List&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;Customised_List" name="Customised_ListBox" patterns="*" qualified="true" references="true" stamp="1717419771443" textual="false" version="1.0"/>
+</session>

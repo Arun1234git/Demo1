@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;setup.locater1&apos; to &apos;Xpath_attribute&apos;&#x0D;&#x0A;- Original project: &apos;Selenium_practic&apos;&#x0D;&#x0A;- Original element: &apos;setup.locater1&apos;&#x0D;&#x0A;- Renamed element: &apos;setup.Xpath_attribute&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update fully qualified names in &apos;*&apos; files&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;locater1&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;setup{locater1.java[locater1" matchStrategy="1" name="Xpath_attribute" patterns="*" qualified="true" references="true" similarDeclarations="false" stamp="1715073960094" textual="false" version="1.0"/>
+</session>

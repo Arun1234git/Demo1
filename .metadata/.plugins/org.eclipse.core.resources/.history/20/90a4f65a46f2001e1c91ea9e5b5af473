@@ -1,0 +1,11 @@
+package Interface_implementaion;
+
+public interface default_use 
+{
+void m1();
+void m2();
+default void m3()
+{
+	System.out.println("method m3 running from interface default_use");
+}
+}

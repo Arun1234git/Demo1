@@ -1,0 +1,11 @@
+package inheritance;
+
+public class Hierachical_father 
+{
+
+	public static void main(String[] args)
+	{
+		Hierachical_demo1 h1=new Hierachical_demo1();
+		h1.car();
+	}
+}

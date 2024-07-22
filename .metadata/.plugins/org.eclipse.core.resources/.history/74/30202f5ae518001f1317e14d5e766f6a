@@ -1,0 +1,20 @@
+package Collection;
+
+import java.util.ArrayList;
+
+public class exp8_Generic1 
+{
+public static void main(String[] args) 
+{
+	ArrayList<String> al=new ArrayList<String>();
+	al.add("abc");
+	al.add("pqr");
+	al.add("xyz");
+	al.add("mno");
+	//al.add(100);
+	//al.add(200);
+	System.out.println(al);
+	
+	
+}
+}

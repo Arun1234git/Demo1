@@ -1,0 +1,34 @@
+package Interface_implementaion;
+
+public class default_execution implements default_use1
+{
+	public static void main(String[] args) 
+	{
+		
+	}
+
+
+	public void m1() 
+	{
+		
+		System.out.println("method m1 running from interface default_use");
+	}
+
+	public void m2()
+	{
+		System.out.println("method m2 running from interface default_use");
+		
+	}
+
+
+	public void m3() 
+	{
+		System.out.println("method m3 running from interface default_use1");
+	}
+
+	
+	public void m4() 
+	{
+		System.out.println("method m4 running from interface default_use1");
+	}
+}

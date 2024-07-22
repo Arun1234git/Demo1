@@ -1,0 +1,23 @@
+package Abstract_concrit;
+
+public class Concrit_demo1
+{
+
+	public void squareofnum()
+	{	
+		int n=5;
+		System.out.println(n*n);
+		
+	}
+	
+	public void mul()
+			
+	{
+		System.out.println("running from concrit");
+	}
+	
+	 public void div();
+	 {
+		 System.out.println("running from concrit");
+	 }
+}

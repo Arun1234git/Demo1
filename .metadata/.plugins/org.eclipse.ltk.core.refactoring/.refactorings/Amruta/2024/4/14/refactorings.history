@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;Abstract_concrit.Concrit&apos; to &apos;Concrit_demo1&apos;&#x0D;&#x0A;- Original project: &apos;Amruta&apos;&#x0D;&#x0A;- Original element: &apos;Abstract_concrit.Concrit&apos;&#x0D;&#x0A;- Renamed element: &apos;Abstract_concrit.Concrit_demo1&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update fully qualified names in &apos;*&apos; files&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Concrit&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;Abstract_concrit{Concrit.java[Concrit" matchStrategy="1" name="Concrit_demo1" patterns="*" qualified="true" references="true" similarDeclarations="false" stamp="1712062865631" textual="false" version="1.0"/>
+</session>

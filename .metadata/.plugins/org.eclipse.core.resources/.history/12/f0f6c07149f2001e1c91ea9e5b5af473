@@ -1,0 +1,28 @@
+package Interface_implementaion;
+
+public interface Commonfunctions 
+{
+
+	public static void getexceldata()
+	{
+			int a=10;
+			System.out.println("code to fetch data from excxel sheet");
+			System.out.println(a);
+	}
+	
+	public static void main(String[] args) 
+	{
+		System.out.println("execution starterd");
+		getexceldata();
+	}
+
+	/*default void m1()			cannot create object in interface
+	{
+		System.out.println("abcd");
+	}*/
+	
+	private static void getpath()
+	{
+		System.out.println("code to get path");
+	}
+}

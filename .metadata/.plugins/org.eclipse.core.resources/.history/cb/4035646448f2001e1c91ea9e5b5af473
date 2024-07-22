@@ -1,0 +1,12 @@
+package Interface_implementaion;
+
+public interface Commonfunctions 
+{
+
+	public static void getexceldata()
+	{
+			int a=10;
+			System.out.println("code to fetch data from excxel sheet");
+
+	}
+}

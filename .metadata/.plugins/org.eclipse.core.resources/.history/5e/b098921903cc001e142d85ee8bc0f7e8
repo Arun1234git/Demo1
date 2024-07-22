@@ -1,0 +1,22 @@
+package variable;
+
+public class sample1 {
+
+	public static void main(String[] args) {
+		
+		int studentid;
+	    String studname;
+	    String studdept;
+	    char studgrade;
+	    
+	    studentid=10;
+	    studname="Raghav";
+	    studdept="nursery";
+	    studgrade='A';
+	    
+	    System.out.println("student id is="+studentid);
+	    System.out.println(studname);
+	    System.out.println(studdept);
+	    System.out.println(studgrade);
+	}
+}

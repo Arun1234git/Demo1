@@ -1,0 +1,16 @@
+package Interface_implementaion;
+
+public class Commonfunctions_exec implements Commonfunctions
+{
+	public static void main(String[] args) 
+	{
+		Commonfunctions.getexceldata();		//interface.method name()
+		
+	}
+
+	public void method1() 
+	{
+	System.out.println("metho1 is running from interface commonfunctions");
+		
+	}
+}
